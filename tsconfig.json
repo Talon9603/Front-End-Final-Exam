@@ -1,11 +1,9 @@
 {
   "compilerOptions": {
 
-    "compilerOptions": {
-      "baseUrl": ".",
-      "paths": {
-        "@/*": ["./*"]
-      }
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
     }
     
     "target": "es5",
